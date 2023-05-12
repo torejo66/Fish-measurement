@@ -3,3 +3,6 @@ Fish[[:space:]]mesurement[[:space:]]1.0.exe filter=lfs diff=lfs merge=lfs -text
 *0.exe filter=lfs diff=lfs merge=lfs -text
 0.exe filter=lfs diff=lfs merge=lfs -text
 *exe filter=lfs diff=lfs merge=lfs -text
+“.exe” filter=lfs diff=lfs merge=lfs -text
+.exe filter=lfs diff=lfs merge=lfs -text
+Fish_measurement.exe filter=lfs diff=lfs merge=lfs -text

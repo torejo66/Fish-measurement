@@ -3,5 +3,5 @@
 
 Photo-based method for measuring length of fish using a hand-held camera
 
-**App, user manual and other files can be downloaded by right-clicking the the file names**
+**To download app, click as seen below. A new window will appear. In the new window click the download icon as seen below**
 

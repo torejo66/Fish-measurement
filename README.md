@@ -26,7 +26,7 @@ Photo-based method for measuring length of fish using a hand-held camera
 
 **----------------------------------------------------------------------------------------------------------**
 
-**If the following message appeare, click "View Raw" to download file (do not click in the illustration)**
+**If the file does not download, click on "View Raw" to download file (do not click in the illustration)**
 
 
 ![image](https://github.com/torejo66/Fish-measurement/assets/128371032/1145fc11-694d-4c14-b964-9c96dc8e810d)
